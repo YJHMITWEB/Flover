@@ -108,9 +108,6 @@ Here we introduce memory reordering to make sure the memory of early finished re
 
 **Hardware profiling with Nsight**
 
-![Example Image](images/nsys_baseline.png)
-
-
 
 ![Example Image](images/profiling.png)
 ---
